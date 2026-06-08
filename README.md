@@ -1,5 +1,9 @@
 # AI-Assisted Posture Analysis System
 
+### Body Landmark Detection
+
+![Body Landmark Detection](images/Anterior_View.jpg)
+
 ## Overview
 
 This project focuses on the development of a computer vision-based posture analysis system designed for medical and rehabilitation applications.
