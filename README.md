@@ -2,7 +2,7 @@
 
 ### Body Landmark Detection
 
-![Anterior View](images/anterior_view.png)
+![Anterior View](images/anterior_view.png)![Lateral View](images/lateral_view.png)![Posterior View](images/posterior_view.png)
 
 ## Overview
 
